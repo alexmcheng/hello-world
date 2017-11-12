@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510476420 source:c:\users\acheng\documents\github\hello-world\arraytests\arraytests.cpp
+
+1510476395 source:c:\users\acheng\documents\github\hello-world\arraytests\main.cpp
+	<iostream>
+	"ArrayTests.h"
+
+1510476270 c:\users\acheng\documents\github\hello-world\arraytests\arraytests.h
+
